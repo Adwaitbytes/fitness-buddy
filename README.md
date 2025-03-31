@@ -22,8 +22,3 @@ A social fitness app for Code & Earn Week 3.0 Healthcare and Wellness Bounty.
    - `npm install`
    - `npm start`
 
-## Submission Details
-- **GitHub**: <your-repo-url>
-- **Telegram ID**: @YourTelegramID
-- **Twitter ID**: @YourTwitterID
-- **Contact Number**: +1234567890
